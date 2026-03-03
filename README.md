@@ -1,2 +1,4 @@
-# HyperPDC
-HyperPDC converts directed graphs obtained with the PDC estimator to directed hypergraphs.
+# Temporal Hypergraph Motifs (THMs)
+
+THMs.
+
